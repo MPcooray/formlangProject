@@ -1,4 +1,3 @@
-Absolutely! Here's the exact copy-paste-ready markdown content for your `README.md`:
 
 ````markdown
 # FormLang++ DSL Compiler  
