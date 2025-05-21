@@ -9,7 +9,9 @@
 
 ## 📌 Project Overview
 
-This project implements a **Domain-Specific Language (DSL)** called **FormLang++**, which allows users to define structured web forms using a simple, readable syntax. The system parses the `.form` files using **Lex and Yacc** and generates styled and validated HTML output.
+This project implements a **Domain-Specific Language (DSL)** called **FormLang++**,
+which allows users to define structured web forms using a simple, readable syntax. T
+he system parses the `.form` files using **Lex and Yacc** and generates styled and validated HTML output.
 
 ---
 
